@@ -9,16 +9,6 @@
 
 ---
 
-### 🎬 Gameplay Demo
-
-This project is not just a game; it's an interactive experience. Instead of old-school keyboard controls, it uses **OpenCV** for video capture and **Google's MediaPipe** framework to perform real-time hand landmark detection, translating your gestures into commands.
-
-***(➡️ PASTE YOUR GAMEPLAY GIF/VIDEO HERE ⬅️)***
-
-![Gameplay Demo GIF](<path_to_your_gameplay_demo.gif>)
-
----
-
 ### ✨ Key Features
 
 * **Gesture-Based Controls:** Navigate the snake using just your index finger.
@@ -39,15 +29,15 @@ This project is not just a game; it's an interactive experience. Instead of old-
 
 ### 📸 Screenshots
 
-| Home Screen                               | Playing                                    |
-| ------------------------------------------ | ------------------------------------------ |
-| **(![1000137740](https://github.com/user-attachments/assets/8a91c166-8b6f-49e7-9c16-8427c5ef9a08)
-)** <br> ![Image 1](<path_to_your_image_1.png>) | **(![1000137742](https://github.com/user-attachments/assets/226102b6-bdf4-4371-95d5-5191e945c383)
-)** <br> ![Image 2](<path_to_your_image_2.png>) |
+| Home Screen | Playing |
+| :---: | :---: |
+| <img src="<![1000137740](https://github.com/user-attachments/assets/6c0d3cbd-bc64-403b-8878-b0652d0203f9)
+>" alt="Home Screen" width="400"> | <img src="<![1000137742](https://github.com/user-attachments/assets/eb9ccf79-79dc-4d24-b2ed-36d67be94047)
+>" alt="Playing" width="400"> |
 | **Paused** | **Game Over** |
-| **(![1000137741](https://github.com/user-attachments/assets/77dcfe88-ddc3-4afa-ad0e-c89ea1fde4d1)
-)** <br> ![Image 3](<path_to_your_image_3.png>) | **(![1000137749](https://github.com/user-attachments/assets/44688f4e-a6b8-4955-bb4c-2636958e58fb)
-)** <br> ![Image 4](<path_to_your_image_4.png>) |
+| <img src="<![1000137741](https://github.com/user-attachments/assets/544fc2f7-d0b8-402e-81de-c1aadc897b35)
+>" alt="Paused" width="400"> | <img src="<![1000137749](https://github.com/user-attachments/assets/819d197b-9af3-4832-9616-d7538df7ed9e)
+>" alt="Game Over" width="400"> |
 
 ---
 

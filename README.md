@@ -31,11 +31,11 @@
 
 | Home Screen | Playing |
 | :---: | :---: |
-| <img src="<![1000137740](https://github.com/user-attachments/assets/6c0d3cbd-bc64-403b-8878-b0652d0203f9)>" alt="Home Screen" width="200"> |
-| <img src="<![1000137742](https://github.com/user-attachments/assets/eb9ccf79-79dc-4d24-b2ed-36d67be94047)>" alt="Playing" width="200"> |
+| <img src="<![1000137740](https://github.com/user-attachments/assets/6c0d3cbd-bc64-403b-8878-b0652d0203f9)>" alt="Home Screen" width="200"> 
+| <img src="<![1000137742](https://github.com/user-attachments/assets/eb9ccf79-79dc-4d24-b2ed-36d67be94047)>" alt="Playing" width="200"> 
 | **Paused** | **Game Over** |
-| <img src="<![1000137741](https://github.com/user-attachments/assets/544fc2f7-d0b8-402e-81de-c1aadc897b35)>" alt="Paused" width="200"> |
-| <img src="<![1000137749](https://github.com/user-attachments/assets/819d197b-9af3-4832-9616-d7538df7ed9e)>" alt="Game Over" width="200"> |
+| <img src="<![1000137741](https://github.com/user-attachments/assets/544fc2f7-d0b8-402e-81de-c1aadc897b35)>" alt="Paused" width="200"> 
+| <img src="<![1000137749](https://github.com/user-attachments/assets/819d197b-9af3-4832-9616-d7538df7ed9e)>" alt="Game Over" width="200"> 
 
 ---
 

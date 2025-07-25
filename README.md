@@ -1,4 +1,4 @@
-![1000137741](https://github.com/user-attachments/assets/578a6c32-6dcf-406e-a3a6-518eea9eb274)# 🐍 Gesture Snake: A Modern Twist on a Classic 🎮
+# 🐍 Gesture Snake: A Modern Twist on a Classic 🎮
 
 > A classic Snake game, reimagined for the modern era. Control the snake in real-time using nothing but your hand gestures, captured directly from your webcam!
 

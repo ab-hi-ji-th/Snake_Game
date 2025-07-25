@@ -1,4 +1,4 @@
-![1000137741](https://github.com/user-attachments/assets/89c7cdcf-5bd7-457d-9258-cb39926da119)# 🐍 Gesture Snake: A Modern Twist on a Classic 🎮
+# 🐍 Gesture Snake: A Modern Twist on a Classic 🎮
 
 > A classic Snake game, reimagined for the modern era. Control the snake in real-time using nothing but your hand gestures, captured directly from your webcam!
 
@@ -39,15 +39,15 @@ This project is not just a game; it's an interactive experience. Instead of old-
 
 ### 📸 Screenshots
 
-| In-Game Action                               | Power-up Mayhem                            |
-| -------------------------------------------- | ------------------------------------------ |
-|  ![Image 1](<![1000137749](https://github.com/user-attachments/assets/98d51ec2-051a-43ae-9812-4eb5bd2398a7)
- |  ![Image 2](<![1000137742](https://github.com/user-attachments/assets/6468e1c8-10f1-4e31-a7ce-408fea555358)
- |
-| **Game Over Screen** | **Intro Screen** |
-| ( ![Image 3](<![1000137740](https://github.com/user-attachments/assets/ba562b18-8ed5-4c12-b0d3-6c391f4a63ed)
-|  ![Image 4](<![1000137741](https://github.com/user-attachments/assets/9bfc1f11-b3df-4d39-883a-71fda722dc68)
-|
+| Home Screen                               | Playing                                    |
+| ------------------------------------------ | ------------------------------------------ |
+| **(![1000137740](https://github.com/user-attachments/assets/8a91c166-8b6f-49e7-9c16-8427c5ef9a08)
+)** <br> ![Image 1](<path_to_your_image_1.png>) | **(![1000137742](https://github.com/user-attachments/assets/226102b6-bdf4-4371-95d5-5191e945c383)
+)** <br> ![Image 2](<path_to_your_image_2.png>) |
+| **Paused** | **Game Over** |
+| **(![1000137741](https://github.com/user-attachments/assets/77dcfe88-ddc3-4afa-ad0e-c89ea1fde4d1)
+)** <br> ![Image 3](<path_to_your_image_3.png>) | **(![1000137749](https://github.com/user-attachments/assets/44688f4e-a6b8-4955-bb4c-2636958e58fb)
+)** <br> ![Image 4](<path_to_your_image_4.png>) |
 
 ---
 
@@ -75,11 +75,11 @@ To get a local copy up and running, follow these simple steps.
 
 1.  **Clone the repository:**
     ```sh
-    git clone [https://github.com/your_username/Gesture-Snake-Game.git](https://github.com/your_username/Gesture-Snake-Game.git)
+    git clone [https://github.com/ab-hi-ji-th/Snake_Game.git](https://github.com/ab-hi-ji-th/Snake_Game.git)
     ```
 2.  **Navigate to the project directory:**
     ```sh
-    cd Gesture-Snake-Game
+    cd Snake_Game
     ```
 3.  **Create and activate a virtual environment:**
     * On Windows:
@@ -121,6 +121,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ### 💬 Contact
 
-Abhijith P V - [[LinkedIn](https://www.linkedin.com/in/abhijith-p-v-74bb6a281/)] - [abhijthpv32@gmail.com](mailto:abhijithpv32@gmail.com)
+Abhijith P V - [[LinkedIn](https://www.linkedin.com/in/abhijith-p-v-74bb6a281/)] - [abhijthpv32@gmail.com](mailto:abhijthpv32@gmail.com)
 
-
+Project Link: [https://github.com/ab-hi-ji-th/Snake_Game](https://github.com/ab-hi-ji-th/Snake_Game)

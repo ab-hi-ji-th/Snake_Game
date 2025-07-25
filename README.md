@@ -1,4 +1,4 @@
-# 🐍 Gesture Snake: A Modern Twist on a Classic 🎮
+![1000137741](https://github.com/user-attachments/assets/578a6c32-6dcf-406e-a3a6-518eea9eb274)# 🐍 Gesture Snake: A Modern Twist on a Classic 🎮
 
 > A classic Snake game, reimagined for the modern era. Control the snake in real-time using nothing but your hand gestures, captured directly from your webcam!
 
@@ -30,20 +30,16 @@
 ### 📸 Screenshots
 
 #### Home Screen
-<img src="<![1000137740](https://github.com/user-attachments/assets/d27a09e0-31aa-4f48-935b-d41c708f41cb)
->" alt="Home Screen">
+![1000137740](https://github.com/user-attachments/assets/bdf1bb5f-79a2-48ec-90aa-ae1db9996ecd)
 
 #### Playing
-<img src="<![1000137742](https://github.com/user-attachments/assets/83a79e0c-ac15-42f3-8090-773ec711f068)
->" alt="Playing">
+![1000137742](https://github.com/user-attachments/assets/8b0e1835-a0c1-4f33-986f-fa27ebc7fe18)
 
 #### Paused
-<img src="<![1000137741](https://github.com/user-attachments/assets/0c10132f-ed94-44cc-9af7-f5fc5cee2b8e)
->" alt="Paused">
+![1000137741](https://github.com/user-attachments/assets/9c2c2c95-f2cc-4c4f-9e59-6dabfd9ad5ac)
 
 #### Game Over
-<img src="<![1000137749](https://github.com/user-attachments/assets/cdf5219b-a01c-439e-a459-5ae227e33614)
->" alt="Game Over">
+![1000137749](https://github.com/user-attachments/assets/f3fc6e6d-684f-4cc8-8ac3-f4e29fc26ab8)
 
 ---
 

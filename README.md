@@ -29,13 +29,21 @@
 
 ### 📸 Screenshots
 
-| Home Screen | Playing |
-| :---: | :---: |
-| <img src="<![1000137740](https://github.com/user-attachments/assets/6c0d3cbd-bc64-403b-8878-b0652d0203f9)>" alt="Home Screen" width="200"> 
-| <img src="<![1000137742](https://github.com/user-attachments/assets/eb9ccf79-79dc-4d24-b2ed-36d67be94047)>" alt="Playing" width="200"> 
-| **Paused** | **Game Over** |
-| <img src="<![1000137741](https://github.com/user-attachments/assets/544fc2f7-d0b8-402e-81de-c1aadc897b35)>" alt="Paused" width="200"> 
-| <img src="<![1000137749](https://github.com/user-attachments/assets/819d197b-9af3-4832-9616-d7538df7ed9e)>" alt="Game Over" width="200"> 
+#### Home Screen
+<img src="<![1000137740](https://github.com/user-attachments/assets/9ac53cb5-bc44-422a-8015-37e9a98850f1)
+>" alt="Home Screen" width="600">
+
+#### Playing
+<img src="<![1000137742](https://github.com/user-attachments/assets/aa007c50-f58a-4377-b88d-99d665e6f0db)
+>" alt="Playing" width="600">
+
+#### Paused
+<img src="<![1000137741](https://github.com/user-attachments/assets/e461133f-9e46-4da0-89b0-f1721b0e3711)
+>" alt="Paused" width="600">
+
+#### Game Over
+<img src="<![1000137749](https://github.com/user-attachments/assets/45775b18-75ce-4bb5-a98f-5312bc196669)
+>" alt="Game Over" width="600">
 
 ---
 

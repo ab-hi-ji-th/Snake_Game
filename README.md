@@ -42,12 +42,12 @@ This project is not just a game; it's an interactive experience. Instead of old-
 | In-Game Action                               | Power-up Mayhem                            |
 | -------------------------------------------- | ------------------------------------------ |
 |  ![Image 1](<![1000137749](https://github.com/user-attachments/assets/98d51ec2-051a-43ae-9812-4eb5bd2398a7)
-.png>) |  ![Image 2](<![1000137742](https://github.com/user-attachments/assets/6468e1c8-10f1-4e31-a7ce-408fea555358)
-.png>) |
+ |  ![Image 2](<![1000137742](https://github.com/user-attachments/assets/6468e1c8-10f1-4e31-a7ce-408fea555358)
+ |
 | **Game Over Screen** | **Intro Screen** |
 | ( ![Image 3](<![1000137740](https://github.com/user-attachments/assets/ba562b18-8ed5-4c12-b0d3-6c391f4a63ed)
-.png>) |  ![Image 4](<![1000137741](https://github.com/user-attachments/assets/9bfc1f11-b3df-4d39-883a-71fda722dc68)
-.png>) |
+|  ![Image 4](<![1000137741](https://github.com/user-attachments/assets/9bfc1f11-b3df-4d39-883a-71fda722dc68)
+|
 
 ---
 

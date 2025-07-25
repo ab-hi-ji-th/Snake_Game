@@ -30,16 +30,20 @@
 ### 📸 Screenshots
 
 #### Home Screen
-<img src="<![1000137740](https://github.com/user-attachments/assets/9ac53cb5-bc44-422a-8015-37e9a98850f1)>">
+<img src="<![1000137740](https://github.com/user-attachments/assets/d27a09e0-31aa-4f48-935b-d41c708f41cb)
+>" alt="Home Screen">
 
 #### Playing
-<img src="<![1000137742](https://github.com/user-attachments/assets/aa007c50-f58a-4377-b88d-99d665e6f0db)>">
+<img src="<![1000137742](https://github.com/user-attachments/assets/83a79e0c-ac15-42f3-8090-773ec711f068)
+>" alt="Playing">
 
 #### Paused
-<img src="<![1000137741](https://github.com/user-attachments/assets/e461133f-9e46-4da0-89b0-f1721b0e3711)>">
+<img src="<![1000137741](https://github.com/user-attachments/assets/0c10132f-ed94-44cc-9af7-f5fc5cee2b8e)
+>" alt="Paused">
 
 #### Game Over
-<img src="<![1000137749](https://github.com/user-attachments/assets/45775b18-75ce-4bb5-a98f-5312bc196669)>">
+<img src="<![1000137749](https://github.com/user-attachments/assets/cdf5219b-a01c-439e-a459-5ae227e33614)
+>" alt="Game Over">
 
 ---
 
